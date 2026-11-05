@@ -1,0 +1,10 @@
+Fragment kodu
+# Środowisko wirtualne
+.venv/
+
+# Ustawienia PyCharma
+.idea/
+
+# Pamięć podręczna Pythona
+__pycache__/
+*.pyc
