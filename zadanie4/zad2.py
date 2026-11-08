@@ -7,8 +7,7 @@ for i in range(x):
     l_p.append(nazwa)
     l_c.append(cena)
 
-# print(enumerate(l_p))
-# print(enumerate(l_c))
+
 
 for numer, nazwa in enumerate(l_p, start=1):
     print(f"{numer}. {nazwa}")
